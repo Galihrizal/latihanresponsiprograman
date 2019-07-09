@@ -1,0 +1,7 @@
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_2\Pemrograman\Latihan Responsi Bagian 2\KomponenPC\KomponenPC\bin\Debug\KomponenPC.exe.config
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_2\Pemrograman\Latihan Responsi Bagian 2\KomponenPC\KomponenPC\bin\Debug\KomponenPC.exe
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_2\Pemrograman\Latihan Responsi Bagian 2\KomponenPC\KomponenPC\bin\Debug\KomponenPC.pdb
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_2\Pemrograman\Latihan Responsi Bagian 2\KomponenPC\KomponenPC\obj\Debug\KomponenPC.csprojAssemblyReference.cache
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_2\Pemrograman\Latihan Responsi Bagian 2\KomponenPC\KomponenPC\obj\Debug\KomponenPC.csproj.CoreCompileInputs.cache
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_2\Pemrograman\Latihan Responsi Bagian 2\KomponenPC\KomponenPC\obj\Debug\KomponenPC.exe
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_2\Pemrograman\Latihan Responsi Bagian 2\KomponenPC\KomponenPC\obj\Debug\KomponenPC.pdb
